@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/golden/Documents/learnDoc/FE/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/golden/Documents/learnDoc/FE/realworld-nuxtjs/pages/home",
+        "_name": "_c9c88dbc"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/golden/Documents/learnDoc/FE/realworld-nuxtjs/pages/login",
+        "_name": "_6ed898f4"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/golden/Documents/learnDoc/FE/realworld-nuxtjs/pages/login",
+        "_name": "_6ed898f4"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/golden/Documents/learnDoc/FE/realworld-nuxtjs/pages/settings",
+        "_name": "_391ba6e6"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/golden/Documents/learnDoc/FE/realworld-nuxtjs/pages/editor",
+        "_name": "_3d56e0f0"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/golden/Documents/learnDoc/FE/realworld-nuxtjs/pages/article",
+        "_name": "_9b34045a"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/golden/Documents/learnDoc/FE/realworld-nuxtjs/pages/profile",
+        "_name": "_68c88af4"
+      }
+    ],
+    "_name": "_4925baad"
+  }
+]
