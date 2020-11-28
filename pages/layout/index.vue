@@ -3,7 +3,7 @@
  * @version: 
  * @Date: 2020-11-11 12:39:06
  * @LastEditors: LeeHuiXian
- * @LastEditTime: 2020-11-21 20:46:04
+ * @LastEditTime: 2020-11-28 22:02:03
  * @FilePath: /realworld-nuxtjs/pages/layout/index.vue
  * @Description: 
 -->
@@ -60,7 +60,7 @@
     <!-- footer -->
     <footer>
       <div class="container">
-        <a href="/" class="logo-font">conduit</a>
+        <a href="/" class="logo-font">拉勾教育</a>
         <span class="attribution">
           An interactive learning project from <a href="https://thinkster.io">Thinkster</a>. Code &amp; design licensed under MIT.
         </span>
